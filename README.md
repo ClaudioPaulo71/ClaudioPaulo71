@@ -1,61 +1,76 @@
-## Hi there 👋
-
-<!--
-**ClaudioPaulo71/ClaudioPaulo71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi, I'm Claudio De Paulo 👋
 
-Senior Software Engineer | AI Solutions Architect | Enterprise Modernization
+Senior Software Engineer | Full Stack Architect | Legacy Modernization Specialist
 
-Professional with 20+ years of experience transforming complex business challenges into high-performance digital solutions. Currently specializing in bridging the gap between Legacy Systems (SAP/Mainframe) and cutting-edge AI architectures.
+Senior Software Engineer with over 20 years of experience leading mission-critical projects in global infrastructures. Expert at bridging the gap between reliable legacy systems and cutting-edge Artificial Intelligence innovation.
 
-📍 Location & Goals
+🎯 Current Focus:
 
-🏠 Currently based in Illinois, USA.
+System Modernization: Transforming SAP/Mainframe data into Cloud ecosystems.
 
-🚀 Strategically relocating to Dallas-Fort Worth, Texas.
+AI Ecosystems: Developing compliance and regulatory analysis tools using Python and GenAI.
 
-💼 Open to Senior Software Engineering and Solutions Architecture roles.
+Modern Full Stack: High-performance interfaces with React, TypeScript, and Tailwind CSS.
 
-🛠 Tech Stack & Expertise
+🚀 Featured Projects
 
-Languages: Python (Expert), JavaScript (Node.js/React), C/C++, SQL.
+🛡️ Sentinel IQ
 
-AI & Data: OpenAI API, LangChain, FastAPI, Streamlit, Scikit-Learn.
+An AI-driven regulatory compliance engine. Analyzes complex documents and identifies risks in real-time using FastAPI and LLMs.
 
-Enterprise: SAP Integration, IBM Mainframe Connectivity, Legacy Modernization.
+🏢 Enterprise Operations Hub
 
-Tools: Docker, Git, VS Code, CI/CD Pipelines.
+An enterprise-grade infrastructure monitoring dashboard. Focuses on strict TypeScript typing and analytical visualization for the DFW market.
 
-🚀 Featured Project: Sentinel IQ
+🏠 Texas Real Estate AI
 
-An AI-driven regulatory engine designed to automate the analysis of dense documents.
+Predictive analysis of the Dallas-Fort Worth Metroplex real estate market, built with Python and Streamlit.
 
-View Repository
+🌉 The Legacy Bridge
 
-📈 Metrics of Impact
+A proof-of-concept on converting legacy system data into modern, AI-ready formats.
 
-€20M Savings: Modernized front-end/Mainframe integration for Banco Espírito Santo.
+🛠 Tech Toolkit
 
-60% Time Reduction: Optimized logistics platforms for P&G and Unilever.
+Backend
 
-Scale: Engineered systems for 2,000+ employees and multi-billion dollar operations.
+Frontend
 
-📫 Let's Connect
+DevOps & Tools
+
+Python (FastAPI, Flask)
+
+React.js
+
+Docker
+
+Node.js (Express)
+
+TypeScript
+
+Git / GitHub Actions
+
+SQL / NoSQL
+
+Tailwind CSS
+
+Linux / WSL / NVM
+
+Java / Legacy Systems
+
+HTML5 / CSS3
+
+AI Prompt Engineering
+
+📍 Relocating to Texas (2026)
+
+I am actively relocating to the Dallas-Fort Worth area. I am seeking opportunities where my experience with robust systems and my passion for AI can generate immediate value for the Fort Worth tech community.
+
+📫 Reach me at:
 
 LinkedIn
 
 Email
 
+"Build it reliable, build it modern."
 "Transforming legacy complexity into AI-driven simplicity."
